@@ -16,7 +16,7 @@ databaseConnection();
 import userRouter from "./routes/user.routes.js";
 
 const corsOption = {
-  origin: "https://clonnetflix.netlify.app",
+  origin: "https://gorgeous-strudel-dba534.netlify.app/",
   credentials: true,
 };
 
